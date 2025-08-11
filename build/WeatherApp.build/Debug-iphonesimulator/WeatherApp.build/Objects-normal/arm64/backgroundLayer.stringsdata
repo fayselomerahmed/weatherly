@@ -1,0 +1,32 @@
+{
+  "source": "/Users/user/Documents/WeatherApp/WeatherApp/Views/backgroundLayer.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sunny and Happy",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 179
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rainy and Sad",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 180
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cloudy and Neutral",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 181
+        }
+      }
+    ]
+  },
+  "version": 1
+}

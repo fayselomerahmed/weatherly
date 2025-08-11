@@ -1,0 +1,24 @@
+{
+  "source": "/Users/user/Documents/WeatherApp/WeatherApp/Views/Closures.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, World!",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 12
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap me",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 13
+        }
+      }
+    ]
+  },
+  "version": 1
+}

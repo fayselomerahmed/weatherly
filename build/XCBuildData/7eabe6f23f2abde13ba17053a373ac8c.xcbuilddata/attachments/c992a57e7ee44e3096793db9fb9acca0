@@ -1,0 +1,129 @@
+{
+  "" : {
+    "diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherApp-primary.dia",
+    "emit-module-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherApp-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherApp-primary-emit-module.dia",
+    "pch" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherApp-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherApp-primary.swiftdeps"
+  },
+  "/Users/user/Documents/WeatherApp/WeatherApp/Models/WeatherData.swift" : {
+    "const-values" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherData.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherData.d",
+    "diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherData.dia",
+    "index-unit-output-path" : "/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherData.o",
+    "llvm-bc" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherData.bc",
+    "object" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherData.o",
+    "swift-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherData.swiftdeps",
+    "swiftmodule" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherData~partial.swiftmodule"
+  },
+  "/Users/user/Documents/WeatherApp/WeatherApp/Persistence.swift" : {
+    "const-values" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Persistence.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Persistence.d",
+    "diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Persistence.dia",
+    "index-unit-output-path" : "/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Persistence.o",
+    "llvm-bc" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Persistence.bc",
+    "object" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Persistence.o",
+    "swift-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Persistence.swiftdeps",
+    "swiftmodule" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Persistence~partial.swiftmodule"
+  },
+  "/Users/user/Documents/WeatherApp/WeatherApp/Services/WeatherService.swift" : {
+    "const-values" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherService.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherService.d",
+    "diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherService.dia",
+    "index-unit-output-path" : "/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherService.o",
+    "llvm-bc" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherService.bc",
+    "object" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherService.o",
+    "swift-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherService.swiftdeps",
+    "swiftmodule" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherService~partial.swiftmodule"
+  },
+  "/Users/user/Documents/WeatherApp/WeatherApp/ViewModels/WeatherViewModel.swift" : {
+    "const-values" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherViewModel.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherViewModel.d",
+    "diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherViewModel.dia",
+    "index-unit-output-path" : "/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherViewModel.o",
+    "llvm-bc" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherViewModel.bc",
+    "object" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherViewModel.o",
+    "swift-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherViewModel.swiftdeps",
+    "swiftmodule" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherViewModel~partial.swiftmodule"
+  },
+  "/Users/user/Documents/WeatherApp/WeatherApp/Views/Closures.swift" : {
+    "const-values" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Closures.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Closures.d",
+    "diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Closures.dia",
+    "index-unit-output-path" : "/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Closures.o",
+    "llvm-bc" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Closures.bc",
+    "object" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Closures.o",
+    "swift-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Closures.swiftdeps",
+    "swiftmodule" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Closures~partial.swiftmodule"
+  },
+  "/Users/user/Documents/WeatherApp/WeatherApp/Views/ContentView.swift" : {
+    "const-values" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/user/Documents/WeatherApp/WeatherApp/Views/backgroundLayer.swift" : {
+    "const-values" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/backgroundLayer.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/backgroundLayer.d",
+    "diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/backgroundLayer.dia",
+    "index-unit-output-path" : "/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/backgroundLayer.o",
+    "llvm-bc" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/backgroundLayer.bc",
+    "object" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/backgroundLayer.o",
+    "swift-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/backgroundLayer.swiftdeps",
+    "swiftmodule" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/backgroundLayer~partial.swiftmodule"
+  },
+  "/Users/user/Documents/WeatherApp/WeatherApp/WeatherAppApp.swift" : {
+    "const-values" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherAppApp.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherAppApp.d",
+    "diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherAppApp.dia",
+    "index-unit-output-path" : "/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherAppApp.o",
+    "llvm-bc" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherAppApp.bc",
+    "object" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherAppApp.o",
+    "swift-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherAppApp.swiftdeps",
+    "swiftmodule" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherAppApp~partial.swiftmodule"
+  },
+  "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/DerivedSources/CoreDataGenerated/WeatherApp/Item+CoreDataClass.swift" : {
+    "const-values" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataClass.d",
+    "diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataClass.dia",
+    "index-unit-output-path" : "/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataClass.o",
+    "llvm-bc" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataClass.bc",
+    "object" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataClass.o",
+    "swift-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/DerivedSources/CoreDataGenerated/WeatherApp/Item+CoreDataProperties.swift" : {
+    "const-values" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataProperties.d",
+    "diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataProperties.dia",
+    "index-unit-output-path" : "/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataProperties.o",
+    "llvm-bc" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataProperties.bc",
+    "object" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/Item+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/DerivedSources/CoreDataGenerated/WeatherApp/WeatherApp+CoreDataModel.swift" : {
+    "const-values" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherApp+CoreDataModel.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherApp+CoreDataModel.d",
+    "diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherApp+CoreDataModel.dia",
+    "index-unit-output-path" : "/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherApp+CoreDataModel.o",
+    "llvm-bc" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherApp+CoreDataModel.bc",
+    "object" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherApp+CoreDataModel.o",
+    "swift-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherApp+CoreDataModel.swiftdeps",
+    "swiftmodule" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/WeatherApp+CoreDataModel~partial.swiftmodule"
+  },
+  "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/user/Documents/WeatherApp/build/WeatherApp.build/Debug-iphonesimulator/WeatherApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

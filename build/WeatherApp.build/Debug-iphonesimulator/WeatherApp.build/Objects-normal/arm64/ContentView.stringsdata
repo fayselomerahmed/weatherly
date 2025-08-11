@@ -1,0 +1,40 @@
+{
+  "source": "/Users/user/Documents/WeatherApp/WeatherApp/Views/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Weather",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter city",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "%.1f °C",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 73
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,12 @@
+---
+path:            '/Users/user/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/26.0/Swift.swiftmodule/arm64-apple-ios-simulator.swiftmodule'
+dependencies:
+  - mtime:           1753972907000000000
+    path:            '/Users/user/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/26.0/Swift.swiftmodule/arm64-apple-ios-simulator.swiftmodule'
+    size:            14059744
+  - mtime:           1753936441000000000
+    path:            'usr/lib/swift/Swift.swiftmodule/arm64-apple-ios-simulator.swiftinterface'
+    size:            2249649
+    sdk_relative:    true
+version:         1
+...
