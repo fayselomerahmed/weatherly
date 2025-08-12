@@ -8,7 +8,7 @@
 import Foundation
  
 class WeatherService {
-    let apiKey = "893556c561a0cda762ff1a3ca7eea77b"
+    let apiKey = ""
     func fetchWeatherData(for city: String) async throws -> WeatherData  {
         let urlString = "https://api.openweathermap.org/data/2.5/weather?q=\(city)&appid=\(apiKey)&units=metric"
         
